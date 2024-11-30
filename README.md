@@ -1,4 +1,4 @@
-# CrocAI: A trader's Bestfriend
+# CrocAI: A trader's Bestfriend 🐊
 
 CrocAI is an advanced AI-powered therapist tailored specifically for memecoin traders who navigate the volatile and emotionally charged world of crypto trading. Designed to be “A Trader’s Best Friend,” CrocAI offers personalized mental health support, helping traders manage the emotional highs and lows of chasing life-changing gains and making generational wealth. and it's available 24/7.
 
