@@ -1,10 +1,6 @@
-# AI Therapist Conversation App
+# CrocAI: A trader's Bestfriend
 
-This application provides a personalized mental wellness experience using AI from a large language model (LLM). It's designed to offer emotional support and coping strategies through empathetic conversations. You can share your thoughts and feelings confidentially and without worry, anytime you want, and get feedback in a seemingly conscientious and thoughtful manner. It gives you ideas to feel calmer and happier, and it's available 24/7.
-
-## Demo
-
-[https://ai-thera.vercel.app/](https://ai-thera.vercel.app/)
+CrocAI is an advanced AI-powered therapist tailored specifically for memecoin traders who navigate the volatile and emotionally charged world of crypto trading. Designed to be “A Trader’s Best Friend,” CrocAI offers personalized mental health support, helping traders manage the emotional highs and lows of chasing life-changing gains and making generational wealth. and it's available 24/7.
 
 ## Overview
 
